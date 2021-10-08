@@ -2,13 +2,13 @@
 
 Web scrapping apps powered by Scrapy. Used 2 Spyders that connected to a set of pipeline functions. 
 
-  Spiders:
+**Spiders:**
+
+    authors
+    
+    author_details
   
-  authors
-  
-  author_details
-  
-  Data stored at postgreSQL, mapped by SQLalchemy classes.
+ Data stored at postgreSQL, mapped by SQLalchemy classes.
   
   
   
