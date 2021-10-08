@@ -1,6 +1,12 @@
 # home-work-14
 
-Web scrapping apps powered by Scrapy. Used 2 Spyders that connected to a set of pipeline functions. 
+Web scrapping app powered by Scrapy. Source for scrapping https://quotes.toscrape.com/ 
+
+Used 2 Spyders that connected to a set of pipeline functions:
+
+- clear data from quotes, line-breaks
+- structuring data
+- save data to DB 
 
 **Spiders:**
 
